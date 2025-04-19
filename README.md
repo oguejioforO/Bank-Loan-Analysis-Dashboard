@@ -29,7 +29,7 @@ The dataset contains 36,095 loan records with details such as:
 - State & Loan Purpose
 - Loan Term (in years)
 
-### 🛠️ Tools Used
+### Tools Used
 - Power BI: for data modeling and dashboard creation
 
 - Microsoft Excel: for initial data review and structure
@@ -58,7 +58,7 @@ Data was cleaned using Power BI's Power Query Editor. Key tasks included:
 
 - Provide actionable insights to reduce default rates
 
-### 📈 Results
+### Results
 1. Highest Loan Defaults: GTBank and Polaris Bank had high loan disbursement, but also notable default rates.
 
 2. Repayment Trends: Loans issued earlier in the year had lower average repayments than those from mid-year.
@@ -69,7 +69,7 @@ Data was cleaned using Power BI's Power Query Editor. Key tasks included:
 
 5. Loan Term Trends: 2 and 3 year loans dominated the portfolio with a near-equal share of loan statuses.
 
-### 📊 Visualizations Used
+### Visualizations Used
 - Bar Charts: Loan by Purpose, Loan Amount by Bank
 
 - Line Charts: Monthly Repayment Trends
