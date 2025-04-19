@@ -1,5 +1,18 @@
 # Bank-Loan-Analysis-Dashboard
 
+## Table of Content
+
+- [Project Overview](#Project-Overview)
+- [Dataset Info](#Dataset-Info)
+- [Tools Used](#Tools-Used)
+- [Data Cleaning](#Data-Cleaning)
+- [Analysis Objectives](#Analysis-Objectives)
+- [Results](#Results)
+- [Visualizations Used](#Visualizations-Used)
+- [Limitations](#Limitations)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
+
 ### Project Overview
 This project provides a data-driven analysis of bank loan performance across several institutions using Power BI and Excel. It aims to uncover insights around loan approvals, defaults, repayment behaviors, and interest rate trends across demographics and employment statuses.
 
@@ -45,7 +58,7 @@ Data was cleaned using Power BI's Power Query Editor. Key tasks included:
 
 - Provide actionable insights to reduce default rates
 
-### 📈 Key Insights
+### 📈 Results
 1. Highest Loan Defaults: GTBank and Polaris Bank had high loan disbursement, but also notable default rates.
 
 2. Repayment Trends: Loans issued earlier in the year had lower average repayments than those from mid-year.
